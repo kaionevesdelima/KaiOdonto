@@ -54,7 +54,7 @@ body{
     align-items: center;
 }
 #menu-topo a{
-    font-size:40px;
+    font-size:20px;
     font-weight: 700;
     font-family: var(--geom);
     color: var(--azul-profundo);
