@@ -54,7 +54,7 @@ body{
     align-items: center;
 }
 #menu-topo a{
-    font-size:20px;
+    font-size: 100px;
     font-weight: 700;
     font-family: var(--geom);
     color: var(--azul-profundo);
@@ -62,7 +62,7 @@ body{
     padding-bottom:5px;
 }
 #menu-topo a:hover{
-    color:var(--azul-medio);
+    color:var(--azul-forte);
     border-bottom: 2px solid var(--azul-medio);
 }
 
