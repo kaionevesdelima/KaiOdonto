@@ -66,8 +66,8 @@ body{
     border-bottom: 2px solid var(--azul-medio);
 }
 #menu-topo .atual{
-    color:var(--azul-medio);
-     border-bottom: 2px solid var(--azul-medio);
+    color:var(--azul-forte);
+     border-bottom: 2px solid var(--azul-forte);
 }
 
 #chamado{
