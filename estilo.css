@@ -62,7 +62,7 @@ body{
     padding-bottom:5px;
 }
 #menu-topo a:hover{
-    color:var(--azul-forte);
+    color:var(--azul-medio);
     border-bottom: 2px solid var(--azul-medio);
 }
 #menu-topo .atual{
